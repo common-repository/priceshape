@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Plugin\n"
+"Language: ru\n"
+
+#: views/all-products-page.php:2
+msgid "All Products"
+msgstr ""
+
+#: views/approving-price-page.php:3
+msgid "Products with updated prices"
+msgstr ""
+
+#: views/login-form.php:5
+msgid "User Name"
+msgstr ""
+
+#: views/login-form.php:6
+msgid "Enter User Name"
+msgstr ""
+
+#: views/login-form.php:8
+msgid "User Phone Number"
+msgstr ""
+
+#: views/login-form.php:9
+msgid "Enter User Phone Number"
+msgstr ""
+
+#: views/login-form.php:11
+msgid "User Email"
+msgstr ""
+
+#: views/login-form.php:12
+msgid "Enter User Email"
+msgstr ""
+
+#: views/login-form.php:13
+msgid "User Country"
+msgstr ""
+
+#: views/login-form.php:14
+msgid "Enter User Country"
+msgstr ""
+
+#: views/login-form.php:19
+msgid "I agree to the collection and processing of personal data"
+msgstr ""
+
+#: views/login-form.php:22
+msgid "SEND"
+msgstr ""
+
+#: views/not-found.php:8
+msgid "for more details."
+msgstr ""
+
+#: views/not-found.php:10
+msgid "Sorry, you don't have WooCommerce plugin installed. Please contact"
+msgstr ""
+
+#: views/plugin-limit.php:11
+msgid "Your PriceShape export limit is"
+msgstr ""
+
+#: views/plugin-limit.php:13
+msgid "items."
+msgstr ""
+
+#: views/plugin-status.php:11
+msgid "PriceShape Plugin Status:"
+msgstr ""
+
+#: views/plugin-status.php:15
+msgid "Try again"
+msgstr ""
+
+#: views/support-btn.php:2
+msgid "Having errors?"
+msgstr ""
+
+#: views/support-btn.php:4
+msgid "to report a bug."
+msgstr ""
+

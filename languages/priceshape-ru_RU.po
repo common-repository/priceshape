@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Plugin\n"
+"Language: ru\n"
+
+#: views/all-products-page.php:2
+msgid "All Products"
+msgstr "Все продукты"
+
+#: views/approving-price-page.php:3
+msgid "Products with updated prices"
+msgstr "Товары с обновленными ценами"
+
+#: views/login-form.php:5
+msgid "User Name"
+msgstr "Имя пользователя"
+
+#: views/login-form.php:6
+msgid "Enter User Name"
+msgstr "Введите имя пользователя"
+
+#: views/login-form.php:8
+msgid "User Phone Number"
+msgstr "Телефонный номер пользователя"
+
+#: views/login-form.php:9
+msgid "Enter User Phone Number"
+msgstr "Введите номер телефона пользователя"
+
+#: views/login-form.php:11
+msgid "User Email"
+msgstr "Электронная почта пользователя"
+
+#: views/login-form.php:12
+msgid "Enter User Email"
+msgstr "Введите адрес электронной почты пользователя"
+
+#: views/login-form.php:13
+msgid "User Country"
+msgstr "Страна пользователя"
+
+#: views/login-form.php:14
+msgid "Enter User Country"
+msgstr "Введите страну пользователя"
+
+#: views/login-form.php:19
+msgid "I agree to the collection and processing of personal data"
+msgstr "Даю согласие на сбор и обработку персональных данных"
+
+#: views/login-form.php:22
+msgid "SEND"
+msgstr "ОТПРАВИТЬ"
+
+#: views/not-found.php:8
+msgid "for more details."
+msgstr "Больше подробностей."
+
+#: views/not-found.php:10
+msgid "Sorry, you don't have WooCommerce plugin installed. Please contact"
+msgstr "К сожалению, у вас не установлен плагин WooCommerce. Пожалуйста, свяжитесь с"
+
+#: views/plugin-limit.php:11
+msgid "Your PriceShape export limit is"
+msgstr "Ваш экспортный лимит PriceShape составляет"
+
+#: views/plugin-limit.php:13
+msgid "items."
+msgstr "Предметы."
+
+#: views/plugin-status.php:11
+msgid "PriceShape Plugin Status:"
+msgstr "Статус плагина PriceShape:"
+
+#: views/plugin-status.php:15
+msgid "Try again"
+msgstr "Попробуй снова"
+
+#: views/support-btn.php:2
+msgid "Having errors?"
+msgstr "Возникли ошибки?"
+
+#: views/support-btn.php:4
+msgid "to report a bug."
+msgstr "чтобы сообщить об ошибке."
+
